@@ -1,3 +1,5 @@
-# Presentations of courses, talks and workshops: https://gusn8.github.io/
+# Slides
 
-Gustavo Josue Lizarraga
+Presentations of courses, talks and workshops: https://gusn8.github.io/
+
+Gustavo Josué Lizárraga
