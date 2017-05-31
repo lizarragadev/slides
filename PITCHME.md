@@ -4,7 +4,7 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
   <img src="assets/img/profile/gusn8.png" width="60em">
-  <img src="assets/img/profile/gusn8.png" width="60em">
+  <img src="/assets/img/profile/gusn8.png" width="60em">
 
   <h4><b>qqqqqqqqqqqqqqqqqqqq</b></h4>
   <p>Python and Golang</p>
@@ -83,8 +83,8 @@ func main() {
 ---
 
 <div class="card" style="padding-top: 2em;padding-bottom: 2em;">
-<img src="assets/img/profile/gusn8.png" width="60em">
-style 10em
+  <img src="assets/img/profile/gusn8.png" width="60em">
+  style 10em
 </div>
 
 ---
