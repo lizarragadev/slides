@@ -5,7 +5,7 @@
   
   <img src="assets/img/profile/gusn8.png" width="60em">
   </br>
-  <img src="https://raw.githubusercontent.com/gusn8/slides/template/assets/img/profile/gusn8.png" width="60em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/template/assets/img/profile/gusn8.png" width="30%">
 
   <h4><b>qqqqqqqqqqqqqqqqqqqq</b></h4>
   <p>Python and Golang</p>
