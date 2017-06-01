@@ -3,23 +3,35 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="assets/img/profile/gusn8.png" width="60em">
-  </br>
-  <img src="https://raw.githubusercontent.com/gusn8/slides/template/assets/img/profile/gusn8.png" width="30%">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="30%">
 
-  <h4><b>qqqqqqqqqqqqqqqqqqqq</b></h4>
-  <p>Python and Golang</p>
-  <br>
-  <span style="color:gray">Markdown Presentations For Developers</span>
-  <br>
-  <span style="color:gray">on</span>
-  <br>
-  <span style="color:gray">GitHub, GitLab and Bitbucket</span>
-  <br>
-
+  <span style="color:gray">Android Architecture Components</span>
+  
 </div>
 
 ---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.png" width="30%">
+
+  <span style="color:gray">Android Architecture Components</span>
+  
+</div>
+
+---
+
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.png" width="30%">
+
+  <span style="color:gray">Android Architecture Components</span>
+  
+</div>
+
+---
+
 <div class="card" style="padding-top: 2em; padding-bottom: 2em;">
 ## Code Slides
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
