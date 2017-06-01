@@ -5,7 +5,7 @@
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
   </br>
-  <span style="color:gray">Android Architecture Components</span>
+  <span style="color:gray" class="texto">Android Architecture Components</span>
   
 </div>
 
