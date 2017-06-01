@@ -1,7 +1,7 @@
 ---
 <!--.slide: data-autoslide="10000"-->
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+<div class="card" style="padding-bottom: 1em;">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
   </br>
@@ -13,9 +13,9 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="60%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="40%">  
   </br>
-  <span style="color:gray">Android Architecture Components</span>
+  <span style="color:gray">Android Go</span>
   
 </div>
 
@@ -24,9 +24,9 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.gif" width="30%">
-
-  <span style="color:gray">Android Architecture Components</span>
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.gif" width="60%">
+  </br>
+  <span style="color:gray">Android Instant Apps</span>
   
 </div>
 
