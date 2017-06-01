@@ -32,6 +32,56 @@
 
 ---
 
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-kotlin.png" width="50%">  
+  </br>
+  <span style="color:gray">Kotlin</span>
+  
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-studio.png" width="50%">  
+  </br>
+  <span style="color:gray">Android Studio</span>
+  
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-console.png" width="50%">  
+  </br>
+  <span style="color:gray">Google Play Console</span>
+  
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-protect.jpg" width="50%">  
+  </br>
+  <span style="color:gray">Google Play Protect</span>
+  
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensor-flow.png" width="50%">  
+  </br>
+  <span style="color:gray">TensorFlow Lite</span>
+  
+</div>
+
+---
+
 <div class="card" style="padding-top: 2em; padding-bottom: 2em;">
 ## Code Slides
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
