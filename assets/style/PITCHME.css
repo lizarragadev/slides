@@ -15,8 +15,8 @@
 }
 
 @font-face {
-    font-family: 'Product Sans', Arial, sans-serif; /*a name to be used later*/
-    src: url('assets/style/font/productsans.ttf'); /*URL to font*/
+    font-family: 'Product Sans', Arial, sans-serif; 
+    src: url('https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/style/font/productsans.ttf');
 }
 
 .texto {
