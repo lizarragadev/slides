@@ -15,10 +15,10 @@
 }
 
 @font-face {
-    font-family: 'Product Sans'; /*a name to be used later*/
+    font-family: 'Product Sans', Arial, sans-serif; /*a name to be used later*/
     src: url('assets/style/font/productsans.ttf'); /*URL to font*/
 }
 
 .texto {
-    font-family: 'Product Sans';
+    font-family: 'Product Sans', Arial, sans-serif;
 }
