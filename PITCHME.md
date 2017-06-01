@@ -44,7 +44,7 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-studio.png" width="50%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-studio.png" width="30%">  
   </br>
   <span style="color:gray">Android Studio</span>
   
@@ -54,7 +54,7 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-console.png" width="50%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-console.png" width="30%">  
   </br>
   <span style="color:gray">Google Play Console</span>
   
@@ -64,7 +64,7 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-protect.jpg" width="50%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-protect.jpg" width="30%">  
   </br>
   <span style="color:gray">Google Play Protect</span>
   
@@ -74,7 +74,7 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensor-flow.png" width="50%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensor-flow.png" width="30%">  
   </br>
   <span style="color:gray">TensorFlow Lite</span>
   
