@@ -247,7 +247,24 @@
             <span style="color:#4caf50; font-size: 1.5em">Project Treble</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-update.jpg" width="50%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-update.jpg" width="80%">
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 1.5em">Mejores Notificaciones</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-notification.jpg" width="50%">
           </div>
         </div>
       </div>
