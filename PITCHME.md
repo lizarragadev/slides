@@ -4,6 +4,20 @@
   <iframe width="750" height="500" src="https://www.youtube.com/embed/S_M4B-pl05M" frameborder="0" allowfullscreen></iframe>
 </div>
 
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <div id="product">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/estadisticas.png" width="15%"><br>
+    <ul style="color:#455a64;font-size: 1em">
+      <li><span style="color: #4caf50">2k millones +</span>activaciones por mes.</li>
+      <li><span style="color: #4caf50">82k millones +</span>de instalaciones Google Play 2016.</li>
+      <li><span style="color: #4caf50">1 millón +</span> activaciones Android TV, cada dos meses.</li>
+      <li><span style="color: #4caf50">300 + </span>modelos de autos con Android Auto.</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
@@ -367,7 +381,6 @@
       <li>Nuevos <span style="color: #4caf50">gestos </span>sobre el lector de huellas.</li>
       <li>Conexión Wi-Fi <span style="color: #4caf50">automática</span>.</li>
       <li>Encendido <span style="color: #4caf50">dos veces </span> mas rápido.</li>
-      <li>Encendido <span style="color: #4caf50">dos veces </span> mas rápido.</li>
     </ul>
   </div>
 </div>
@@ -379,7 +392,6 @@
   <br>
   <div id="product">
     <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">O</span></br>
     <ul style="color:#455a64;font-size: 1em">
       <li>Android <span style="color: #4caf50">Óreo</span>.</li>
       <li>Android <span style="color: #4caf50">Orange Marmalade</span>.</li>
