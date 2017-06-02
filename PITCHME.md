@@ -41,16 +41,12 @@
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
     <table border="0" style="border-style: none;">
-      <tr style="border: 0px solid transparent">
-        <td align="center">UNO</td>
-        <td align="center">DOS</td>
+      <tr>
+        <td align="center">1</td>
+        <td align="center">Persist Data</td>
       </tr>
-      <tr style="border: 0px solid transparent">
-        <td colspan="2" align="center">TRES</td>
-      </tr>
-      <tr style="border: 0px solid transparent">
-        <td align="center">CUATRO</td>
-        <td align="center">CINCO</td>
+      <tr>
+        <td rowspan="2" align="center">TRES</td>
       </tr>
     </table>
 
