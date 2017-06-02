@@ -20,7 +20,7 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="50%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="20%"><br>
     <ul style="color:#4caf50;font-size: 2em">
       <li > <span style="color:#4caf50">Robustas</span> </li>
       <li> <span style="color:#4caf50">Mantenibles</span> </li>
