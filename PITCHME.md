@@ -375,11 +375,17 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-o.png" width="30%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-o.png" width="10%">  
   <br>
   <div id="product">
     <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">O</span>
+    <span style="color:#4caf50">O</span></br>
+    <ul style="color:#455a64;font-size: 1em">
+      <li>Android <span style="color: #4caf50">Óreo</span>.</li>
+      <li>Android <span style="color: #4caf50">Orange Marmalade</span>.</li>
+      <li>Android <span style="color: #4caf50">Orange in Muscatel</span>.</li>
+      <li>Android <span style="color: #4caf50">Oatcake</span>.</li>
+    </ul>
   </div>
 </div>
 
