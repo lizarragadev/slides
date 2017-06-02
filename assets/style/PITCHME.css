@@ -36,5 +36,6 @@
 }
 
 .contenedor-columna{
+    align-content: center;
     display: table-cell;
 }
