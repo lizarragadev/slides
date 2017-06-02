@@ -48,7 +48,7 @@
 
         </td>
         <td align="center">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="25%">
         </td>
       </tr>
     </table>
