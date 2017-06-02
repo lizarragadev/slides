@@ -5,7 +5,7 @@
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
   </br>
-  <div id="change">Android</div>
+  <div id="change">Ejemplo Google</div>
   
 </div>
 

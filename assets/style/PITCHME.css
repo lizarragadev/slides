@@ -15,10 +15,10 @@
 }
 
 @font-face {
-    font-family:'Product Sans';
+    font-family:'Product Sans', Arial, sans-serif;
     src: url(assets/style/font/productsans.ttf);
 }
 
 #change{
-    font-family:'Product Sans';
+    font-family:'Product Sans', Arial, sans-serif;
 }
