@@ -42,11 +42,14 @@
   <div id="product">
     <table border="0" style="border-style: none;">
       <tr>
-        <td align="center">1</td>
-        <td align="center">Persist Data</td>
-      </tr>
-      <tr>
-        <td rowspan="2" align="center">TRES</td>
+        <td align="center">
+          <span style="color:#4caf50; font-size: 4em">1</span><br>
+          <span style="color:#4caf50; font-size: 1em">Persistence</span>
+
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/dv.png" width="50%">
+        </td>
       </tr>
     </table>
 
