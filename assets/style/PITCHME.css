@@ -36,7 +36,6 @@
 }
 
 .contenedor-columna{
-    align-content: center;
     width: 50%; 
     display: table-cell; 
     vertical-align: middle;
