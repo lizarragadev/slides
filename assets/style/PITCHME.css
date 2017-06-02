@@ -15,10 +15,10 @@
 }
 
 @font-face {
-    font-family:rockfont;
+    font-family:'Product Sans';
     src: url(assets/style/font/productsans.ttf);
 }
 
 #change{
-    font-family:rockfont;
+    font-family:'Product Sans';
 }
