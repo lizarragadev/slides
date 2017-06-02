@@ -41,17 +41,17 @@
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
     <table border="1" style="background: #f00">
-      <tr align="center">
-        <td>
-          <span style="color:#4caf50; font-size: 4em">1</span><br>
-          <span style="color:#4caf50; font-size: 1em">Persistence</span>
-        </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="25%">
-        </td>
-      </tr>
-    </table>
-
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna">
+            <span style="color:#4caf50; font-size: 4em">1</span><br>
+            <span style="color:#4caf50; font-size: 1em">Persistence</span>
+          </div>
+          <div class="contenedor-columna">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="25%">
+          </div>
+        </div>
+      </div>
   </div>
 </div>
 

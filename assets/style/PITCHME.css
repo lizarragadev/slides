@@ -26,3 +26,15 @@
 #product {
     font-family:'Product Sans', Arial, sans-serif;
 }
+
+.contenedor-tabla{
+    display: table;
+}
+
+.contenedor-fila{
+    display: table-row;
+}
+
+.contenedor-columna{
+    display: table-cell;
+}
