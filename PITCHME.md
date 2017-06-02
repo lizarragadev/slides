@@ -221,7 +221,7 @@
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <span style="color:#455a64; font-size: 1.5em">Android</span><span style="color:#4caf50; font-size: 1.5em"><b>Go</b></span>
+    <span style="color:#455a64; font-size: 1.5em">Android </span><span style="color:#4caf50; font-size: 1.5em"><b>Go</b></span>
   </div>
 </div>
 
@@ -234,6 +234,41 @@
   <div id="product">
     <span style="color:#455a64">Android</span>
     <span style="color:#4caf50">O</span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-o.png" width="30%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Android</span>
+    <span style="color:#4caf50">O</span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <div id="product">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/devices.jpg" width="10%"><br>
+     <ul style="color:#455a64;font-size: 1em">
+      <li>Google <span style="color: #4caf50">Pixel</span>.</li>
+      <li>Google <span style="color: #4caf50">Pixel XL</span>.</li>
+      <li>Google <span style="color: #4caf50">Pixel X</span> ahorro de datos.</li>
+      <li><span style="color: #4caf50">Nexus </span>6P.</li>
+      <li><span style="color: #4caf50">Nexus </span>5X.</li>
+      <li><span style="color: #4caf50">Nexus </span>Player.</li>
+    </ul>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+    <span style="color:#455a64; font-size: 1.5em">www.google.com/</span><span style="color:#4caf50; font-size: 1.5em"><b>android/beta</b></span>
   </div>
 </div>
 
