@@ -184,10 +184,25 @@
             <span style="color:#4caf50; font-size: 1.5em">GB RAM</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-ligero.png" width="70%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-ligero.png" width="80%">
           </div>
         </div>
       </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <div id="product">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="15%"><br>
+    <ul style="color:#455a64;font-size: 1em">
+      <li> <span>La base será Android O.</span> </li>
+      <li> <span>Dispositivos con < 1 GB RAM.</span> </li>
+      <li> <span>Activado ahorro de datos</span> </li>
+      <li> <span>Prioridad a aplicaciones lite.</span> </li>
+      <li> <span>Hay posible integración con Android One.</span> </li>
+    </ul>
   </div>
 </div>
 
