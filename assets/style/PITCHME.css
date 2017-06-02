@@ -15,10 +15,10 @@
 }
 
 @font-face {
-    font-family: 'Product Sans', Arial, sans-serif; 
-    src: url('https://fonts.googleapis.com/css?family=Product+Sans:400,400i,700,700i');
+    font-family:rockfont;
+    src: url(assets/style/font/productsans.ttf);
 }
 
-.texto {
-    font-family: 'Product Sans', Arial, sans-serif;
+#change{
+    font-family:rockfont;
 }
