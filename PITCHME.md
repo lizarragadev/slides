@@ -67,7 +67,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Manage Lifecycle</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/lifecycle.png" width="50%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/lifecycle.png" width="70%">
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Modular</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/modular.jpg" width="50%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/modular.jpg" width="100%">
           </div>
         </div>
       </div>
@@ -95,7 +95,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
     <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
@@ -105,7 +105,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Defense Against Common Errors</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/defense.png" width="50%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/defense.png" width="70%">
           </div>
         </div>
       </div>
@@ -114,7 +114,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
     <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
@@ -124,7 +124,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Less boilerplate</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/codigo.png" width="50%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/codigo.png" width="70%">
           </div>
         </div>
       </div>
