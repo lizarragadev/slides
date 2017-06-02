@@ -195,6 +195,7 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <div id="product">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="10%"><br>
      <ul style="color:#455a64;font-size: 1em">
       <li>La base será <span style="color: #4caf50">Android O</span>.</li>
       <li>Dispositivos con <span style="color: #4caf50">< 1 GB RAM</span>.</li>
