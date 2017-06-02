@@ -134,7 +134,8 @@
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <span style="color:#455a64; font-size: 1.5em">developer.android.com/arch</span>
+    <span style="color:#455a64; font-size: 1.5em">developer.android.com/</span>
+    <span style="color:#4caf50; font-size: 1.5em"><b>arch</b></span>
   </div>
 </div>
 
@@ -148,6 +149,12 @@
     <span style="color:#455a64">Android</span>
     <span style="color:#4caf50">Go</span>
   </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-one.jpg" width="50%">  
 </div>
 
 ---
