@@ -195,13 +195,12 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <div id="product">
-    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="15%"><br>
-    <ul style="color:#455a64;font-size: 1em">
-      <li> <span>La base será Android O.</span> </li>
-      <li> <span>Dispositivos con < 1 GB RAM.</span> </li>
-      <li> <span>Activado ahorro de datos</span> </li>
-      <li> <span>Prioridad a aplicaciones lite.</span> </li>
-      <li> <span>Hay posible integración con Android One.</span> </li>
+     <ul style="color:#455a64;font-size: 1em">
+      <li>La base será <span style="color: #4caf50">Android O</span>.</li>
+      <li>Dispositivos con <span style="color: #4caf50">< 1 GB RAM</span>.</li>
+      <li><span style="color: #4caf50">Activado</span> ahorro de datos.</li>
+      <li>Prioridad a aplicaciones <span style="color: #4caf50">lite</span>.</li>
+      <li>Hay posible integración con <span style="color: #4caf50">Android One</span>.</li>
     </ul>
   </div>
 </div>
