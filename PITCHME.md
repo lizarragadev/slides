@@ -40,17 +40,17 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <table border="0">
+    <table border="0" style="border-collapse: collapse;">
       <tr>
-        <td>UNO</td>
-        <td>DOS</td>
+        <td align="center">UNO</td>
+        <td align="center">DOS</td>
       </tr>
       <tr>
-        <td colspan="2">TRES</td>
+        <td colspan="2" align="ceter">TRES</td>
       </tr>
       <tr>
-        <td>CUATRO</td>
-        <td>CINCO</td>
+        <td align="center">CUATRO</td>
+        <td align="center">CINCO</td>
       </tr>
     </table>
 
