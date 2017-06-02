@@ -24,7 +24,7 @@
 
 +++
 
-<img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/suenio-programador.jpg" width="30%">
+<img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/suenio-programador.jpg" width="100%">
 
 
 ---
