@@ -33,8 +33,10 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/arch.png" width="20%"><br>
-    <span style="color:#4caf50; font-size: 2em">AAC</span>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/arch.png" width="30%"><br>
+    <span style="color:#455a64; font-size: 2em">A</span>
+    <span style="color:#4caf50; font-size: 2em">A</span>
+    <span style="color:#455a64; font-size: 2em">C</span>
   </div>
 </div>
 
@@ -127,6 +129,15 @@
       </div>
   </div>
 </div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+    <span style="color:#455a64">developer.android.com/arch</span>
+  </div>
+</div>
+
 
 ---
 
