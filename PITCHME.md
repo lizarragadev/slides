@@ -80,7 +80,7 @@
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <span style="color:#4caf50; font-size: 4em">3</span><br>
-            <span style="color:#4caf50; font-size: 1.5em">  Modular  </span>
+            <span style="color:#4caf50; font-size: 1.5em">  Modular Android Camp </span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/modular.jpg" width="70%">
