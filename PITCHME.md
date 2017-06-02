@@ -169,18 +169,25 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/celular-lento.gif" width="70%">  
   <br>
   <div id="product">
-    <span style="color:#4caf50">¿</span><span style="color:#455a64">Telefono lento</span><span style="color:#4caf50">?</span>
+    <span style="color:#4caf50">¿</span><span style="color:#455a64">Teléfono lento</span><span style="color:#4caf50">?</span>
   </div>
 </div>
 
 +++
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="25%">  
-  <br>
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">Go</span>
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 4em">> 1</span><br>
+            <span style="color:#4caf50; font-size: 1.5em">GB RAM</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-ligero.png" width="40%">
+          </div>
+        </div>
+      </div>
   </div>
 </div>
 
