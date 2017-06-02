@@ -134,7 +134,7 @@
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <span style="color:#455a64">developer.android.com/arch</span>
+    <span style="color:#455a64; font-size: 1.5em">developer.android.com/arch</span>
   </div>
 </div>
 
