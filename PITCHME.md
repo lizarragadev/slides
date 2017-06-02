@@ -6,8 +6,8 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
   </br>
   <div id="change">
-    <div style="color:red">Android</div>
-    <div style="color:blue">Architecture</div>
+    <span style="color:red">Android</span>
+    <span style="color:blue">Architecture</span>
     <div style="color:green">Components</div>
   </div>
   

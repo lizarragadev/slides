@@ -14,6 +14,11 @@
     vertical-align:middle;
 }
 
+.reveal span {
+    font-family:'Product Sans', Arial, sans-serif;
+}
+
+
 @font-face {
     font-family:'Product Sans', Arial, sans-serif;
     src: url(assets/style/font/productsans.ttf);
