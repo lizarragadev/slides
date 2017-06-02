@@ -43,12 +43,12 @@
     <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
-          <div class="contenedor-columna" align="center" style="background: #f00; width: 50%; display: inline-block; vertical-align: middle;">
+          <div class="contenedor-columna" align="center" style="width: 50%; display: inline-block; vertical-align: middle;">
             <span style="color:#4caf50; font-size: 4em">1</span><br>
             <span style="color:#4caf50; font-size: 1em">Persistence</span>
           </div>
-          <div class="contenedor-columna" align="center" style="background: #aaa; width: 50%; display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="25%">
+          <div class="contenedor-columna" align="center" style="width: 50%; display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="50%">
           </div>
         </div>
       </div>
