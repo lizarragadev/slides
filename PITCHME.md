@@ -18,10 +18,10 @@
 
 +++
 
-<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <div id="product">
-    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="20%"><br>
-    <ul style="color:#4caf50;font-size: 2em">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="15%"><br>
+    <ul style="color:#4caf50;font-size: 1.5em">
       <li > <span style="color:#4caf50">Robustas</span> </li>
       <li> <span style="color:#4caf50">Mantenibles</span> </li>
       <li> <span style="color:#4caf50">Testables</span> </li>
