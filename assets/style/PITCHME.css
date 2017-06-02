@@ -39,6 +39,6 @@
     align-content: center;
     display: table-cell;
     width: 50%; 
+    display: inline-block; 
     vertical-align: middle;
-    align-content: center;
 }
