@@ -40,7 +40,6 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
@@ -59,7 +58,6 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
@@ -78,7 +76,6 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
@@ -97,7 +94,6 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
@@ -116,7 +112,6 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
