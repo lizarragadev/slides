@@ -1,7 +1,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/S_M4B-pl05M" frameborder="0" allowfullscreen></iframe>
+  <iframe width="750" src="https://www.youtube.com/embed/S_M4B-pl05M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
