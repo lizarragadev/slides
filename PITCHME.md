@@ -10,9 +10,9 @@
   <div id="product">
     <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/estadisticas.png" width="15%"><br>
     <ul style="color:#455a64;font-size: 1em">
-      <li><span style="color: #4caf50">2k millones +</span>activaciones por mes.</li>
-      <li><span style="color: #4caf50">82k millones +</span>de instalaciones Google Play 2016.</li>
-      <li><span style="color: #4caf50">1 millón +</span> activaciones Android TV, cada dos meses.</li>
+      <li><span style="color: #4caf50">2k millones + </span>activaciones por mes.</li>
+      <li><span style="color: #4caf50">82k millones + </span>de instalaciones Google Play 2016.</li>
+      <li><span style="color: #4caf50">1 millón + </span> activaciones Android TV, cada dos meses.</li>
       <li><span style="color: #4caf50">300 + </span>modelos de autos con Android Auto.</li>
     </ul>
   </div>
@@ -295,7 +295,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Notifications Dots</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/notification-dots.jpg" width="100%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/notification-dots.jpg" width="150%">
           </div>
         </div>
       </div>
@@ -391,7 +391,6 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-o.png" width="10%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
     <ul style="color:#455a64;font-size: 1em">
       <li>Android <span style="color: #4caf50">Óreo</span>.</li>
       <li>Android <span style="color: #4caf50">Orange Marmalade</span>.</li>
