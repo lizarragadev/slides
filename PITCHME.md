@@ -40,7 +40,7 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <table border="0" style="border-collapse: collapse;" cellpadding="0" cellspacing="0">
+    <table style="border-style:hidden; border: 1px solid transparent">
       <tr>
         <td align="center">UNO</td>
         <td align="center">DOS</td>
