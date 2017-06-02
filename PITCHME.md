@@ -40,7 +40,7 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <table border="0" style="border-style: none;">
+    <table border="1">
       <tr>
         <td align="center">
           <span style="color:#4caf50; font-size: 4em">1</span><br>
