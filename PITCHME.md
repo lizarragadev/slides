@@ -1,14 +1,14 @@
 ---
 <!--.slide: data-autoslide="10000"-->
 
-<div class="card" style="padding-bottom: 1em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
   </br>
   <div id="product">
-    <span style="color:gray">Android</span>
-    <span style="color:#AAABBB">Architecture</span>
-    <span style="color:green">Components</span>
+    <span style="color:#37474f">Android</span>
+    <span style="color:#37474f"><u>Architecture</u></span>
+    <span style="color:#4caf50">Components</span>
   </div>
   
 </div>
