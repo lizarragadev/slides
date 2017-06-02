@@ -162,8 +162,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/celular-lento.gif" width="50%">  
   <br>
-  <div id="<span style="color:#4caf50">Go</span>product">
-    <span style="color:#4caf50">¿</span>
+  <div id="product">
     <span style="color:#455a64">Telefono lento</span>
     <span style="color:#4caf50">?</span>
   </div>
