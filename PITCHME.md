@@ -12,16 +12,12 @@
 
 +++
 
-### <span style="color:#455a64">Components</span>
-
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
-  
-### <span style="color:#455a64">Components</span>
   <div id="product">
     <ul>
-###   <li> <span style="color:#455a64">Opcion 1</span> </li>
-###   <li> <span style="color:#4caf50">Opcion 2</span> </li>
-###   <li> <span style="color:#455a64">Opcion 3</span> </li>
+      <li> <span style="color:#4caf50; font-size: 10em">Robustas</span> </li>
+      <li> <span style="color:#4caf50">Mantenibles</span> </li>
+      <li> <span style="color:#4caf50">Testables</span> </li>
     </ul>
   </div>
 </div>
@@ -65,7 +61,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-kotlin.png" width="70%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-kotlin.png" width="65%">  
   <br>
   <div id="product">
     <span style="color:#455a64">Kotlin</span>
