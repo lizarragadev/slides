@@ -40,7 +40,7 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <table border="0">
+    <table border="0" style="border-style: none;">
       <tr style="border: 0px solid transparent">
         <td align="center">UNO</td>
         <td align="center">DOS</td>
