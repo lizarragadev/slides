@@ -1,14 +1,45 @@
 ---
-<!--.slide: data-autoslide="10000"-->
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
-  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
-  </br>
+  <br>
   <div id="product">
-    <span style="color:#37474f">Android</span>
-    <span style="color:#37474f"><u>Architecture</u></span>
-    <span style="color:#4caf50">Components</span>
+    <span style="color:#455a64">Android</span>
+    <span style="color:#4caf50">Architecture</span>
+    <span style="color:#455a64">Components</span>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="25%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Android</span>
+    <span style="color:#4caf50">Go</span>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.gif" width="60%">
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Android</span>
+    <span style="color:#455a64">Instant</span>
+    <span style="color:#4caf50">Apps</span>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-kotlin.png" width="50%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Kotlin</span>
   </div>
   
 </div>
@@ -17,50 +48,24 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="25%">  
-  </br>
-  <span style="color:gray">Android Go</span>
-  
-</div>
-
----
-
-
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.gif" width="60%">
-  </br>
-  <span style="color:gray">Android Instant Apps</span>
-  
-</div>
-
----
-
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-kotlin.png" width="50%">  
-  </br>
-  <span style="color:gray">Kotlin</span>
-  
-</div>
-
----
-
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-studio.png" width="30%">  
-  </br>
-  <span style="color:gray">Android Studio</span>
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Android</span>
+    <span style="color:#4caf50">Studio</span>
+  </div>
   
 </div>
 
 ---
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-console.png" width="30%">  
-  </br>
-  <span style="color:gray">Google Play Console</span>
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Google Play</span>
+    <span style="color:#4caf50">Console</span>
+  </div>
   
 </div>
 
@@ -69,9 +74,12 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-protect.jpg" width="30%">  
-  </br>
-  <span style="color:gray">Google Play Protect</span>
-  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Google Play</span>
+    <span style="color:#4caf50">Protect</span>
+  </div>
+
 </div>
 
 ---
@@ -79,8 +87,11 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensor-flow.png" width="30%">  
-  </br>
-  <span style="color:gray">TensorFlow Lite</span>
+  <br>
+  <div id="product">
+    <span style="color:#455a64">TensorFlow</span>
+    <span style="color:#4caf50">Lite</span>
+  </div>
   
 </div>
 
