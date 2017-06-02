@@ -40,15 +40,15 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <table style="border-style:hidden; border: 1px solid transparent">
-      <tr>
+    <table border="0">
+      <tr style="border: 0px solid transparent">
         <td align="center">UNO</td>
         <td align="center">DOS</td>
       </tr>
-      <tr>
+      <tr style="border: 0px solid transparent">
         <td colspan="2" align="center">TRES</td>
       </tr>
-      <tr>
+      <tr style="border: 0px solid transparent">
         <td align="center">CUATRO</td>
         <td align="center">CINCO</td>
       </tr>
