@@ -1,6 +1,12 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/S_M4B-pl05M" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="50%">
   <br>
   <div id="product">
@@ -160,7 +166,7 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/celular-lento.gif" width="50%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/celular-lento.gif" width="70%">  
   <br>
   <div id="product">
     <span style="color:#4caf50">¿</span><span style="color:#455a64">Telefono lento</span><span style="color:#4caf50">?</span>
@@ -169,7 +175,14 @@
 
 +++
 
-
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="25%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Android</span>
+    <span style="color:#4caf50">Go</span>
+  </div>
+</div>
 
 ---
 
