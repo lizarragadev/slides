@@ -252,7 +252,7 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <div id="product">
-    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/devices.jpg" width="10%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/devices.jpg" width="30%"><br>
      <ul style="color:#455a64;font-size: 1em">
       <li>Google <span style="color: #4caf50">Pixel</span>.</li>
       <li>Google <span style="color: #4caf50">Pixel XL</span>.</li>
