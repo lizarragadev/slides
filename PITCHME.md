@@ -76,7 +76,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
   <div id="product">
     <table border="1" style="background: #f00">
       <div class="contenedor-tabla">
@@ -86,7 +86,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Modular</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/modular.jpg" width="70%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/lifecycle.png" width="70%">
           </div>
         </div>
       </div>
