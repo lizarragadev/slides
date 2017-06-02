@@ -23,6 +23,18 @@
 
 ---
 
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-o.png" width="25%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Android</span>
+    <span style="color:#4caf50">O</span>
+  </div>
+</div>
+
+---
+
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.gif" width="60%">
   <br>
