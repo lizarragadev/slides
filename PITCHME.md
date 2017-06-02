@@ -36,6 +36,26 @@
   </div>
 </div>
 
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+    <table border="0">
+      <tr>
+        <td>UNO</td>
+        <td>DOS</td>
+      </tr>
+      <tr>
+        <td colspan="2">TRES</td>
+      </tr>
+      <tr>
+        <td>CUATRO</td>
+        <td>CINCO</td>
+      </tr>
+    </table>
+
+  </div>
+</div>
 
 ---
 
