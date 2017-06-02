@@ -15,7 +15,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
   <div id="product">
     <ul style="color:#4caf50">
-      <li > <span style="color:#4caf50; font-size: 1em">Robustas</span> </li>
+      <li > <span style="color:#4caf50; font-size: 2em">Robustas</span> </li>
       <li> <span style="color:#4caf50">Mantenibles</span> </li>
       <li> <span style="color:#4caf50">Testables</span> </li>
     </ul>
