@@ -184,7 +184,7 @@
             <span style="color:#4caf50; font-size: 1.5em">GB RAM</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-ligero.png" width="40%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-ligero.png" width="70%">
           </div>
         </div>
       </div>
