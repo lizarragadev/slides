@@ -6,7 +6,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <div id="product">
     <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/estadisticas.png" width="15%"><br>
     <ul style="color:#455a64;font-size: 1em">
