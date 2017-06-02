@@ -38,4 +38,7 @@
 .contenedor-columna{
     align-content: center;
     display: table-cell;
+    width: 50%; 
+    vertical-align: middle;
+    align-content: center;
 }
