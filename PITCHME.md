@@ -33,7 +33,8 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
-    <span style="color:#4caf50; font-size: 3em">Architecture Components</span>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/arch.png" width="20%"><br>
+    <span style="color:#4caf50; font-size: 2em">AAC</span>
   </div>
 </div>
 
