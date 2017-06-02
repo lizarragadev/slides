@@ -10,6 +10,19 @@
   </div>
 </div>
 
++++
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+  <div id="product">
+    <ul>
+###      <li> <span style="color:#455a64">Opcion 1</span> </li>
+###      <li> <span style="color:#4caf50">Opcion 2</span> </li>
+###      <li> <span style="color:#455a64">Opcion 3</span> </li>
+    </ul>
+  </div>
+</div>
+
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
