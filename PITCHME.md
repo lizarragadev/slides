@@ -12,15 +12,19 @@
 
 +++
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <div id="product">
-    <ul style="color:#4caf50">
-      <li > <span style="color:#4caf50; font-size: 2em">Robustas</span> </li>
+    <ul style="color:#4caf50;font-size: 2em">
+      <li > <span style="color:#4caf50">Robustas</span> </li>
       <li> <span style="color:#4caf50">Mantenibles</span> </li>
       <li> <span style="color:#4caf50">Testables</span> </li>
     </ul>
   </div>
 </div>
+
++++
+
+<img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/suenio-programador.jpg" width="30%">
 
 
 ---
