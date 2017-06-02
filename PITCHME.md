@@ -45,10 +45,86 @@
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <span style="color:#4caf50; font-size: 4em">1</span><br>
-            <span style="color:#4caf50; font-size: 1.5em">Persistence</span>
+            <span style="color:#4caf50; font-size: 1.5em">Persist Data</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/db.png" width="50%">
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+    <table border="1" style="background: #f00">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 4em">2</span><br>
+            <span style="color:#4caf50; font-size: 1.5em">Manage Lifecycle</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/lifecycle.png" width="50%">
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+    <table border="1" style="background: #f00">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 4em">3</span><br>
+            <span style="color:#4caf50; font-size: 1.5em">Modular</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/modular.png" width="50%">
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+    <table border="1" style="background: #f00">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 4em">4</span><br>
+            <span style="color:#4caf50; font-size: 1.5em">Defense Against Common Errors</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/defense.png" width="50%">
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+    <table border="1" style="background: #f00">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 4em">5</span><br>
+            <span style="color:#4caf50; font-size: 1.5em">Less boilerplate</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/codigo.png" width="50%">
           </div>
         </div>
       </div>
