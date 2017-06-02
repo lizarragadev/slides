@@ -1,7 +1,7 @@
 ---
 <!--.slide: data-autoslide="10000"-->
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="60%">
   </br>
