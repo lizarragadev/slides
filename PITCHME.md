@@ -12,7 +12,13 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/suenio-programador.jpg" width="100%">
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <div id="product">
     <ul style="color:#4caf50;font-size: 2em">
       <li > <span style="color:#4caf50">Robustas</span> </li>
@@ -24,9 +30,12 @@
 
 +++
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/suenio-programador.jpg" width="100%">
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+    <span style="color:#4caf50; font-size: 3em">Architecture Components</span>
+  </div>
 </div>
+
 
 ---
 
