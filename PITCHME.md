@@ -256,7 +256,7 @@
      <ul style="color:#455a64;font-size: 1em">
       <li>Google <span style="color: #4caf50">Pixel</span>.</li>
       <li>Google <span style="color: #4caf50">Pixel XL</span>.</li>
-      <li>Google <span style="color: #4caf50">Pixel X</span> ahorro de datos.</li>
+      <li>Google <span style="color: #4caf50">Pixel X</span>.</li>
       <li><span style="color: #4caf50">Nexus </span>6P.</li>
       <li><span style="color: #4caf50">Nexus </span>5X.</li>
       <li><span style="color: #4caf50">Nexus </span>Player.</li>
