@@ -261,7 +261,7 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <span style="color:#4caf50; font-size: 1.5em">Notificaciones Mejoradas</span>
+            <span style="color:#4caf50; font-size: 1.5em">Improved Notifications</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-notification.jpg" width="90%">
@@ -278,7 +278,24 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <span style="color:#4caf50; font-size: 1.5em">Agrupación de Notificaciones por App</span>
+            <span style="color:#4caf50; font-size: 1.5em">Notifications Dots</span>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/notification-dots.jpg" width="100%">
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <span style="color:#4caf50; font-size: 1.5em">Notification Grouping</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-iconos.png" width="90%">
@@ -298,7 +315,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Picture in Picture</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-picture.png" width="90%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-picture.gif" width="100%">
           </div>
         </div>
       </div>
@@ -312,10 +329,10 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <span style="color:#4caf50; font-size: 1.5em">Iconos Adaptivos</span>
+            <span style="color:#4caf50; font-size: 1.5em">Adaptive Icons</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/icono-animacion.gif" width="90%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/icono-animacion.gif" width="100%">
           </div>
         </div>
       </div>
@@ -329,17 +346,31 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <span style="color:#4caf50; font-size: 1.5em">Copia texto Inteligente</span>
+            <span style="color:#4caf50; font-size: 1.5em">Smart Text Selection</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-inteligente.gif" width="90%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-inteligente.gif" width="110%">
           </div>
         </div>
       </div>
   </div>
 </div>
 
++++
 
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <div id="product">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="10%"><br>
+     <ul style="color:#455a64;font-size: 1em">
+      <li>Pausa en <span style="color: #4caf50">Descargas </span>del Sistema.</li>
+      <li><span style="color: #4caf50">Autorrelleno </span>de texto nativo.</li>
+      <li>Nuevos <span style="color: #4caf50">gestos </span>sobre el lector de huellas.</li>
+      <li>Conexión Wi-Fi <span style="color: #4caf50">automática</span>.</li>
+      <li>Encendido <span style="color: #4caf50">dos veces </span> mas rápido.</li>
+      <li>Encendido <span style="color: #4caf50">dos veces </span> mas rápido.</li>
+    </ul>
+  </div>
+</div>
 
 +++
 
