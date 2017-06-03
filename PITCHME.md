@@ -699,10 +699,10 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/minionjava.gif" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/minionjava.gif" width="80%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#4caf50; font-size: 1em">Convierte código Java a código Kotlin</span>
+          <span style="color:#4caf50; font-size: 1.5em">Convierte código Java a código Kotlin</span>
         </div>
       </div>
     </div>
