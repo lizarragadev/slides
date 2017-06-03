@@ -866,6 +866,50 @@
   
 </div>
 
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;padding-right: 1em;padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-vitals.png" width="100%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1.5em">Android Vitals</span><br>
+          <span style="color:#455a64; font-size: 0.8em">stability, battery usage & render time</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;padding-right: 1em;padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/instant-apps-play.png" width="120%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1.5em">Publish Android Instant Apps</span><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+    <span style="color:#455a64; font-size: 1.5em">play.google.com/</span>
+    <span style="color:#4caf50; font-size: 1.5em"><b>apps/publish</b></span>
+  </div>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
