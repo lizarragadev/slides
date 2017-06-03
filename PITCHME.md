@@ -1014,15 +1014,6 @@
 
 +++
 
-<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
-  <div id="product">
-    <span style="color:#455a64; font-size: 1.5em">www.android.com/</span>
-    <span style="color:#4caf50; font-size: 1.5em"><b>play-protect</b></span>
-  </div>
-</div>
-
-+++
-
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;padding-right: 1em;padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
