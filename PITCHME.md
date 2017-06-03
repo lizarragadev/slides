@@ -664,7 +664,7 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/java.png" width="80%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/java.png" width="50%">  
   <br>
   <div id="product">
     <span style="color:#455a64">JAVA </span><span style="color:#4caf50"><b>IS NOT DEAD</b></span>
