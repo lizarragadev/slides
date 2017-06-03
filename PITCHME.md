@@ -479,6 +479,16 @@
   
 </div>
 
++++
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/kotlin-googleio.jpg" width="65%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Anuncio en </span><span style="color:#4caf50">Google I/O 2017</span>
+  </div>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
