@@ -24,9 +24,9 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="50%">
   <br>
   <div id="product">
-    <span style="color:#455a64; font-size: 2em">Android</span>
-    <span style="color:#4caf50; font-size: 2em">Architecture</span>
-    <span style="color:#455a64; font-size: 2em">Components</span>
+    <span style="color:#455a64; font-size: 1.5em"><b>Android</b></span>
+    <span style="color:#4caf50; font-size: 1.5em"><b>Architecture</b></span>
+    <span style="color:#455a64; font-size: 1.5em"><b>Components</b></span>
   </div>
 </div>
 
