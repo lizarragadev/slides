@@ -1,7 +1,12 @@
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 0.5em;">
   <iframe width="750" height="500" src="https://www.youtube.com/embed/S_M4B-pl05M" frameborder="0" allowfullscreen></iframe>
+  <br>
+  <div id="product">
+    <span style="color:#455a64; font-size: 1.5em"><b>Inicio de </b></span>
+    <span style="color:#4caf50; font-size: 1.5em"><b>Google I/O 2017</b></span>
+  </div>
 </div>
 
 +++
@@ -733,7 +738,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/editor.png" width="80%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/editor.png" width="90%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#4caf50; font-size: 2em">Layout Editor</span>
