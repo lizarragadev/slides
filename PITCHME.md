@@ -929,7 +929,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect1.png" width="90%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect1.png" width="70%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#4caf50; font-size: 1.5em">Nunca duerme</span><br>
@@ -966,7 +966,7 @@
           <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect3.png" width="90%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#4caf50; font-size: 1.5em">50 billones Apps / dia</span><br>
+          <span style="color:#4caf50; font-size: 1.5em">50k millones Apps / dia</span><br>
         </div>
       </div>
     </div>
