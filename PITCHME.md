@@ -167,12 +167,12 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-go.jpg" width="25%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">Go</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Android</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>Go</b></span>
   </div>
 </div>
 
@@ -247,12 +247,12 @@
 ---
 
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-o.png" width="30%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">O</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Android</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>O</b></span>
   </div>
 </div>
 
@@ -431,13 +431,13 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">  
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps.gif" width="70%">
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#455a64">Instant</span>
-    <span style="color:#4caf50">Apps</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Android</b></span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Instant</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>Apps</b></span>
   </div>
 </div>
 
@@ -474,11 +474,11 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-kotlin.png" width="65%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Kotlin</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Kotlin</b></span>
   </div>
   
 </div>
@@ -686,13 +686,13 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;padding-left: 1em; padding-right: 1em">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-studio.png" width="35%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">Studio</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Android</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>Studio</b></span>
   </div>
   
 </div>
@@ -861,12 +861,12 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-console.png" width="35%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Google Play</span>
-    <span style="color:#4caf50">Console</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Google Play</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>Console</b></span>
   </div>
   
 </div>
@@ -916,13 +916,13 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;padding-right: 1em; padding-left: 1em">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/google-play-protect.jpg" width="35%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">Google Play</span>
-    <span style="color:#4caf50">Protect</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>Google Play</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>Protect</b></span>
   </div>
 
 </div>
@@ -1006,13 +1006,13 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensor-flow.png" width="35%">  
   <br>
   <div id="product">
-    <span style="color:#455a64">TensorFlow</span>
-    <span style="color:#4caf50">Lite</span>
+    <span style="color:#455a64;font-size: 1.5em"><b>TensorFlow</b></span>
+    <span style="color:#4caf50;font-size: 1.5em"><b>Lite</b></span>
   </div>
   
 </div>
