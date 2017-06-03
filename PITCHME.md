@@ -24,9 +24,9 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="50%">
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#4caf50">Architecture</span>
-    <span style="color:#455a64">Components</span>
+    <span style="color:#455a64; font-size: 2em">Android</span>
+    <span style="color:#4caf50; font-size: 2em">Architecture</span>
+    <span style="color:#455a64; font-size: 2em">Components</span>
   </div>
 </div>
 
@@ -194,7 +194,7 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <span style="color:#4caf50; font-size: 4em"> &lt;1</span><br>
+            <span style="color:#4caf50; font-size: 4em"> &lt; 1</span><br>
             <span style="color:#4caf50; font-size: 1.5em">GB RAM</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
