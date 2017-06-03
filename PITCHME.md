@@ -25,7 +25,7 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-architecture-components.png" width="50%">
   <br>
   <div id="product">
