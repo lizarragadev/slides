@@ -4,8 +4,8 @@
   <iframe width="750" height="500" src="https://www.youtube.com/embed/S_M4B-pl05M" frameborder="0" allowfullscreen></iframe>
   <br>
   <div id="product">
-    <span style="color:#455a64; font-size: 1.5em"><b>Inicio de </b></span>
-    <span style="color:#4caf50; font-size: 1.5em"><b>Google I/O 2017</b></span>
+    <span style="color:#455a64; font-size: 1.5em">Inicio de </span>
+    <span style="color:#4caf50; font-size: 1.5em">Google I/O 2017</span>
   </div>
 </div>
 
