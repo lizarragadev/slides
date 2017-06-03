@@ -584,7 +584,7 @@
           <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#4caf50; font-size: 2.5em">Aprendizaje</span>        
+          <span style="color:#4caf50; font-size: 2em">Aprendizaje</span>        
         </div>
       </div>
     </div>
@@ -601,7 +601,7 @@
           <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#4caf50; font-size: 2.5em">Empresas que confian</span>        
+          <span style="color:#4caf50; font-size: 2em">Empresas que confian</span>        
         </div>
       </div>
     </div>
