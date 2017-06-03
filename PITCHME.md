@@ -467,7 +467,6 @@
   </div>
 </div>
 
-
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
@@ -618,10 +617,36 @@
           <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#4caf50; font-size: 2.5em">ffffff</span>        
+          <span style="color:#4caf50; font-size: 2.5em">Soporte oficial</span>        
         </div>
       </div>
     </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/jetbrains.png" width="100%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2.5em">Los mejores IDEs</span>        
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+    <span style="color:#4caf50; font-size: 1.5em"><b>kotlinlang.</b></span>
+    <span style="color:#455a64; font-size: 1.5em">org/</span>
   </div>
 </div>
 
