@@ -692,6 +692,24 @@
   
 </div>
 
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/minionjava.gif" width="50%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1em">Convierte código Java a código Kotlin</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
