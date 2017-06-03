@@ -643,18 +643,11 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/kotlinlapaz.png" width="80%">  
+  <br>
   <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/kotlinlapaz.png" width="80%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#4caf50; font-size: 2.5em">www.facebook.com/KotlinLaPaz</span>        
-        </div>
-      </div>
-    </div>
+    <span style="color:#455a64">www.facebook.com/</span><span style="color:#4caf50"><b>KotlinLaPaz</b></span>
   </div>
 </div>
 
