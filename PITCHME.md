@@ -905,8 +905,7 @@
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
   <div id="product">
-    <span style="color:#455a64; font-size: 1.5em">play.google.com/</span>
-    <span style="color:#4caf50; font-size: 1.5em"><b>apps/publish</b></span>
+    <span style="color:#455a64; font-size: 1.5em">play.google.com/</span><span style="color:#4caf50; font-size: 1.5em"><b>apps/publish</b></span>
   </div>
 </div>
 
@@ -921,6 +920,82 @@
     <span style="color:#4caf50">Protect</span>
   </div>
 
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;padding-right: 1em;padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect1.png" width="90%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1.5em">Nunca duerme</span><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;padding-right: 1em;padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect2.png" width="90%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1.5em">Control remotamente</span><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;padding-right: 1em;padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect3.png" width="90%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1.5em">50 billones Apps / dia</span><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;padding-right: 1em;padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/protect4.png" width="90%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 1.5em">Navega seguro</span><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+    <span style="color:#455a64; font-size: 1.5em">www.android.com/</span><span style="color:#4caf50; font-size: 1.5em"><b>aplay-protect</b></span>
+  </div>
 </div>
 
 ---
