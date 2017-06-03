@@ -709,6 +709,149 @@
   </div>
 </div>
 
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/jva8.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">Java 8</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/editor.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">Layout Editor</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/adaptiveicons.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">Adaptive Icon Wizard</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/fontsxml.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">XML Fonts & Downloadable Fonts</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/androidthings.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">Android Things Support</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/studioinstantapps.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">Instant App Support</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/build.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">Build Speed Improvements</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/opengl3.png" width="80%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <span style="color:#4caf50; font-size: 2em">OpenGL ES 3.0 Support in Android Emulator</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <div id="product">
+    <span style="color:#455a64; font-size: 1.5em">developer.android.com/</span><span style="color:#4caf50; font-size: 1.5em"><b>studio/preview</b></span>
+  </div>
+</div>
 
 ---
 
