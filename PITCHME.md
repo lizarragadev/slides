@@ -891,7 +891,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/instant-apps-play.png" width="90%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/instant-apps-play.png" width="60%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#4caf50; font-size: 1.5em">Publish Android Instant Apps</span><br>
@@ -1019,7 +1019,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensorflow2.jpg" width="90%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/tensorflow2.jpg" width="100%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#4caf50; font-size: 1.5em">Versión más liviana</span><br>
