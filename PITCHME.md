@@ -442,11 +442,23 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/android-instant-apps2.gif" width="100%">
   <br>
   <div id="product">
-    <span style="color:#455a64">Android</span>
-    <span style="color:#455a64">Instant</span>
-    <span style="color:#4caf50">Apps</span>
+    <span style="color:#455a64">Actualización</span>
+    <span style="color:#4caf50">2017</span>
   </div>
 </div>
+
++++
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/instant-apps-modules.jpg" width="100%">
+  <br>
+  <div id="product">
+    <span style="color:#455a64">Estructura</span>
+    <span style="color:#4caf50">Modular</span>
+  </div>
+</div>
+
+
 
 
 ---
