@@ -295,7 +295,7 @@
             <span style="color:#4caf50; font-size: 1.5em">Notifications Dots</span>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/notification-dots.gif" width="100%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/notification-dots.gif" width="50%">
           </div>
         </div>
       </div>
