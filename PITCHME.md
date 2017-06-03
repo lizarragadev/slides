@@ -212,7 +212,7 @@
     <img src="https://raw.githubusercontent.com/gusn8/slides/android-io17/assets/img/post/done.png" width="10%"><br>
      <ul style="color:#455a64;font-size: 1em">
       <li>La base será <span style="color: #4caf50">Android O</span>.</li>
-      <li>Dispositivos con <span style="color: #4caf50"> &lt; 1 GB RAM</span>.</li>
+      <li>Dispositivos con <span style="color: #4caf50"> &lt;1 GB RAM</span>.</li>
       <li><span style="color: #4caf50">Activado</span> ahorro de datos.</li>
       <li>Prioridad a aplicaciones <span style="color: #4caf50">lite</span>.</li>
       <li>Hay posible integración con <span style="color: #4caf50">Android One</span>.</li>
