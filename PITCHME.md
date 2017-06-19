@@ -5,7 +5,7 @@
   <div id="product">
     <span style="color:#455a64; font-size: 2em">Gustavo Lizárraga</span><br>
     <span style="color:#455a64; font-size: 0.5em">www.miramicodigo.com</span><br>
-    <span style="color:#4caf50; font-size: 1.5em">Lo nuevo de Android en #io17</span>
+    <span style="color:#4caf50; font-size: 1.5em">Mi primera ves con Kotlin en Android</span>
   </div>
 </div>
 
