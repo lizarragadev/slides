@@ -21,10 +21,9 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/alegria.gif" width="80%">  
-  <br>
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/alegria.gif" width="80%">
   <div id="product">
-    <span style="color:#455a64">Alegria de </span><span style="color:#ff5722">muchos</span>
+    <span style="color:#455a64">Alegría de </span><span style="color:#ff5722">muchos</span>
   </div>
 </div>
 
@@ -34,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/android-kotlin.png" width="65%">  
   <br>
   <div id="product">
-    <span style="color:#455a64;font-size: 1.5em"><b>Kotlin</b></span>
+    <span style="color:#455a64">¿Qué es</span><span style="color:#ff5722">Kotlin?</span>
   </div>
   
 </div>
