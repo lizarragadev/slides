@@ -47,7 +47,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Maduro</span>        
@@ -64,7 +64,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Facilidad</span>        
@@ -81,7 +81,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Android Studio</span>        
@@ -98,7 +98,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Seguro</span>        
@@ -115,7 +115,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Skill+</span>        
@@ -132,7 +132,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2em">Aprendizaje</span>        
@@ -149,7 +149,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2em">Empresas que confian</span>        
@@ -166,7 +166,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-logo.png" width="50%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin-logo.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Soporte oficial</span>        
@@ -183,7 +183,7 @@
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/jetbrains.png" width="60%">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/jetbrains.png" width="60%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <span style="color:#ff5722; font-size: 2.5em">Los mejores IDEs</span>        
