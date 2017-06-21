@@ -42,7 +42,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -59,7 +59,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -76,7 +76,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -93,7 +93,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -110,7 +110,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -127,7 +127,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -144,7 +144,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
@@ -161,7 +161,7 @@
 
 +++
 
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
+<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
