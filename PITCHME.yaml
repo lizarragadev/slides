@@ -1,5 +1,4 @@
-footnote : "www.miramicodigo.com"
-footnote-color: white
+footnote : www.miramicodigo.com
 theme : white
 theme-override : assets/style/PITCHME.css
 background : assets/img/bg/b_blue_gray.png

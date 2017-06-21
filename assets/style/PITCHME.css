@@ -40,3 +40,7 @@
     display: table-cell; 
     text-align: center;
 }
+
+.reveal footnote {
+    color: white;
+}
