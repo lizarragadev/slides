@@ -31,9 +31,8 @@
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/android-kotlin.png" width="65%">  
-  <br>
   <div id="product">
-    <span style="color:#455a64">¿Qué es</span><span style="color:#ff5722">Kotlin?</span>
+    <span style="color:#455a64">¿Qué es </span><span style="color:#ff5722">Kotlin?</span>
   </div>
   
 </div>
@@ -42,13 +41,19 @@
 
 <div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
   <div id="product">
-    <div class="contenedor-tabla">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/done.png" width="15%"><br>
+        <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Maduro</span>        
+          <ul style="color:#455a64;font-size: 1em">
+            <li><span style="color: #ff5722">222 </span>act</li>
+            <li><span style="color: #ff5722">82k </span>y 2016.</li>
+            <li><span style="color: #ff5722">1 mi</span> aeses.</li>
+            <li><span style="color: #ff5722">300</span> Auto.</li>
+    </ul>        
         </div>
       </div>
     </div>
@@ -194,8 +199,7 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java.png" width="50%">  
-  <br>
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java.png" width="50%">
   <div id="product">
     <span style="color:#455a64">JAVA </span><span style="color:#ff5722"><b>IS NOT DEAD</b></span>
   </div>
