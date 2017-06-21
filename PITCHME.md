@@ -47,12 +47,12 @@
           <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
-          <ul style="color:#455a64;font-size: 1em">
+          <ul style="color:#455a64;font-size: 0.9em">
             <li>Sintáxis <span style="color: #ff5722">Java</span></li>
             <li>Más por menos <span style="color: #ff5722">código</span></li>
             <li><span style="color: #ff5722">Null </span>Safety</li>
             <li><span style="color: #ff5722">Expandir </span>clases</li>
-            <li><span style="color: #ff5722">Programación funcional </span>y <span style="color: #ff5722">expresiones lambda</span></li>
+            <li>Programación <span style="color: #ff5722">funcional </span>y expresiones <span style="color: #ff5722">lambda</span></li>
             <li><span style="color: #ff5722">Fácil </span>aprendizaje</li>
           </ul>        
         </div>
