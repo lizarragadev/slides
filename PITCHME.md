@@ -216,7 +216,7 @@
 +++
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/bg/cursor.png" width="10%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/bg/cursor.png" width="7%">  
   <br>
   <div id="product">
     <span style="color:#4caf50; font-size: 1.5em"><b>kotlinlang.</b></span><span style="color:#455a64; font-size: 1.5em">org</span>
