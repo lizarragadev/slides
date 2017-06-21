@@ -41,7 +41,6 @@
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-right: 1em; padding-left: 1em">
   <div id="product">
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/done.png" width="10%">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
