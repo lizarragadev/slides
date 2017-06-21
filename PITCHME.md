@@ -196,16 +196,6 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlinlapaz.png" width="80%">  
-  <br>
-  <div id="product">
-    <span style="color:#455a64">www.facebook.com/</span><span style="color:#ff5722"><b>KotlinLaPaz</b></span>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java.png" width="50%">  
   <br>
   <div id="product">
@@ -215,11 +205,21 @@
 
 +++
 
-<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/bg/cursor.png" width="7%">  
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlinlapaz.png" width="80%">  
   <br>
   <div id="product">
-    <span style="color:#ff5722; font-size: 1.5em"><b>kotlinlang.</b></span><span style="color:#455a64; font-size: 1.5em">org</span>
+    <span style="color:#455a64">www.facebook.com/</span><span style="color:#ff5722"><b>KotlinLaPaz</b></span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/cursor.png" width="7%">  
+  <br>
+  <div id="product">
+    <span style="color:#ff5722; font-size: 1.5em"><b>kotl.</b></span><span style="color:#455a64; font-size: 1.5em">in</span>
   </div>
 </div>
 
