@@ -84,16 +84,16 @@
   </div>
 </div>
 
-+++
+---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java.png" width="50%">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="50%">
   <div id="product">
     <span style="color:#455a64">JAVA </span><span style="color:#ff5722"><b>IS NOT DEAD</b></span>
   </div>
 </div>
 
-+++
+---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlinlapaz.png" width="80%">  
