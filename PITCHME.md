@@ -46,7 +46,7 @@
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
           <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
         </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
           <ul style="color:#455a64;font-size: 1em">
             <li><span style="color: #ff5722">222 </span>act</li>
             <li><span style="color: #ff5722">82k </span>y 2016.</li>
