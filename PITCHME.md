@@ -48,14 +48,35 @@
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
           <ul style="color:#455a64;font-size: 1em">
-            <li><span style="color: #ff5722">Fácil </span>desarrollo</li>
-            <li><span style="color: #ff5722">Android Studio </span>integración</li>
-            <li><span style="color: #ff5722">Seguridad</span></li>
-            <li><span style="color: #ff5722">Skill </span>++</li>
+            <li>Sintáxis <span style="color: #ff5722">Java</span></li>
+            <li>Más por menos <span style="color: #ff5722">código</span></li>
+            <li><span style="color: #ff5722">Null </span>Safety</li>
+            <li><span style="color: #ff5722">Expandir </span>clases</li>
+            <li><span style="color: #ff5722">Programación funcional </span>y <span style="color: #ff5722">expresiones lambda</span></li>
             <li><span style="color: #ff5722">Fácil </span>aprendizaje</li>
+          </ul>        
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-right: 1em; padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
+          <ul style="color:#455a64;font-size: 1em">            
+            <li><span style="color: #ff5722">Android Studio </span>integración</li>
             <li><span style="color: #ff5722">Migración </span>apps</li>
             <li><span style="color: #ff5722">Soporte </span>oficial</li>
             <li><span style="color: #ff5722">Creado por </span>Jetbrains</li>
+            <li><span style="color: #ff5722">Skill </span>++</li>
           </ul>        
         </div>
       </div>
