@@ -95,7 +95,7 @@
 +++
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/arquikotlin.png" width="50%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/arquikotlin.png" width="40%">  
 
 </div>
 
