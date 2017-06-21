@@ -72,10 +72,10 @@
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
           <ul style="color:#455a64;font-size: 1em">            
-            <li><span style="color: #ff5722">Android Studio </span>integración</li>
+            <li>Integración <span style="color: #ff5722">Android Studio</span></li>
             <li><span style="color: #ff5722">Migración </span>apps</li>
-            <li><span style="color: #ff5722">Soporte </span>oficial</li>
-            <li><span style="color: #ff5722">Creado por </span>Jetbrains</li>
+            <li>Soporte <span style="color: #ff5722">oficial</span></li>
+            <li>Creado por <span style="color: #ff5722">Jetbrains</span></li>
             <li><span style="color: #ff5722">Skill </span>++</li>
           </ul>        
         </div>
