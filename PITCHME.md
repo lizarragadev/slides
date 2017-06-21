@@ -43,7 +43,7 @@
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: center;">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: center;" align="center">
           <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
