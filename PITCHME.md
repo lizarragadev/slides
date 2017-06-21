@@ -39,7 +39,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-right: 1em; padding-left: 1em">
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-right: 1em; padding-left: 1em">
   <div id="product">
     <div class="contenedor-tabla">
       <div class="contenedor-fila">
