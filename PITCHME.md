@@ -48,147 +48,15 @@
         </div>
         <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
           <ul style="color:#455a64;font-size: 1em">
-            <li><span style="color: #ff5722">222 </span>act</li>
-            <li><span style="color: #ff5722">82k </span>y 2016.</li>
-            <li><span style="color: #ff5722">1 mi</span> aeses.</li>
-            <li><span style="color: #ff5722">300</span> Auto.</li>
+            <li><span style="color: #ff5722">Fácil </span>desarrollo</li>
+            <li><span style="color: #ff5722">Android Studio </span>integración</li>
+            <li><span style="color: #ff5722">Seguridad</span></li>
+            <li><span style="color: #ff5722">Skill </span>++</li>
+            <li><span style="color: #ff5722">Fácil </span>aprendizaje</li>
+            <li><span style="color: #ff5722">Migración </span>apps</li>
+            <li><span style="color: #ff5722">Soporte </span>oficial</li>
+            <li><span style="color: #ff5722">Creado por </span>Jetbrains</li>
           </ul>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Facilidad</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Android Studio</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Seguro</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Skill+</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2em">Aprendizaje</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2em">Empresas que confian</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em; padding-right: 1em; padding-left: 1em">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="50%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Soporte oficial</span>        
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-+++
-
-<div class="card" style="padding-top: 3em; padding-bottom: 3em;">
-  <div id="product">
-    <div class="contenedor-tabla">
-      <div class="contenedor-fila">
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/jetbrains.png" width="60%">
-        </div>
-        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-          <span style="color:#ff5722; font-size: 2.5em">Los mejores IDEs</span>        
         </div>
       </div>
     </div>
