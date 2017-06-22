@@ -108,6 +108,15 @@
   </div>
 </div>
 
++++
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/codejava.png" width="70%">
+  <div id="product">
+    <span style="color:#455a64">Clase en </span><span style="color:#ff5722"><b>Kotlin</b></span>
+  </div>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
