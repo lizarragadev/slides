@@ -305,7 +305,7 @@
 ---
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/slides.png" width="10%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/slides.png" width="10%">  
   <br>
   <div id="product">
     <span style="color:#455a64; font-size: 1.5em">speakerdeck.com/gusn8/</span>
