@@ -197,13 +197,13 @@
 
 <div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
   <center>
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="20%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="10%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java2.png" width="50%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java2.png" width="80%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="20%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="10%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin2.png" width="50%">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin2.png" width="80%">
   </center>
 </div>
 
