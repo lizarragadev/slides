@@ -1,11 +1,9 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/profile/gusn8.png" width="20%">
-  <br>
-  <br>
   <div id="product">
     <span style="color:#455a64; font-size: 2em">Gustavo Lizárraga</span><br>
     <span style="color:#455a64; font-size: 0.5em">www.miramicodigo.com</span><br>
-    <span style="color:#ff5722; font-size: 1.5em">Mi primera ves con Kotlin en Android</span>
+    <span style="color:#ff5722; font-size: 1em">Mi primera ves con Kotlin en Android</span>
   </div>
 </div>
 
@@ -131,6 +129,35 @@
               <span style="color:#ff5722; font-size: 1.5em">protected</span><br>
               <span style="color:#455a64; font-size: 0.5em">internal is package private</span>
             </center>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/variable.png" width="40%">  
+  <div id="product">
+    <span style="color:#ff5722">Variables</span> y <span style="color:#ff5722">Constantes</span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="25%">
+            
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java1.png" width="80%">
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="25%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin1.png" width="80%">
           </div>
         </div>
       </div>
