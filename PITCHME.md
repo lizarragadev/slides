@@ -157,7 +157,7 @@
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="25%">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin1.png" width="100%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin1.png" width="90%">
           </div>
         </div>
       </div>
