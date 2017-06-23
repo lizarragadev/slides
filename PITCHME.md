@@ -101,6 +101,40 @@
 
 ---
 
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/candado.png" width="65%">  
+  <div id="product">
+    <span style="color:#455a64">Modificadores de </span><span style="color:#ff5722">acceso</span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <div id="product">
+      <div class="contenedor-tabla">
+        <div class="contenedor-fila">
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="20%">
+            <center>
+              <span style="color:#ff5722; font-size: 1em">1</span><br>
+              <span style="color:#ff5722; font-size: 1em">Persist Data</span>
+            </center>
+          </div>
+          <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="20%">
+            <center>
+              <span style="color:#ff5722; font-size: 1em">1</span><br>
+              <span style="color:#ff5722; font-size: 1em">Persist Data</span>
+            </center>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+---
+
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/javavskotlin.png" width="70%">
   <div id="product">
@@ -110,7 +144,7 @@
 
 +++
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/codejava.png" width="50%">
   <div id="product">
     <span style="color:#455a64">Clase en </span><span style="color:#ff5722"><b>Java</b></span>
@@ -119,12 +153,22 @@
 
 +++
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+<div class="card" style="padding-top: 2em; padding-bottom: 2em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/codekotlin1.png" width="80%">
   <div id="product">
     <span style="color:#455a64">Clase en </span><span style="color:#ff5722"><b>Kotlin</b></span>
   </div>
 </div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/codekotlin1.png" width="80%">
+  <div id="product">
+    <span style="color:#455a64">Clase en </span><span style="color:#ff5722"><b>Kotlin</b></span>
+  </div>
+</div>
+
 
 ---
 
