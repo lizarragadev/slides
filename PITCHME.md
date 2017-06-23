@@ -232,15 +232,15 @@
 
 +++
 
-<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <center>
     <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="10%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java4.png" width="60%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java4.png" width="50%"><br>
 
     <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="10%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin4.png" width="60%">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin4.png" width="50%">
   </center>
 </div>
 
