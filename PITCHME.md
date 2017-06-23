@@ -102,7 +102,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/candado.png" width="65%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/candado.png" width="40%">  
   <div id="product">
     <span style="color:#455a64">Modificadores de </span><span style="color:#ff5722">acceso</span>
   </div>
@@ -115,7 +115,7 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="20%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="25%">
             <center>
               <span style="color:#ff5722; font-size: 1.5em">public</span><br>
               <span style="color:#ff5722; font-size: 1.5em">private</span><br>
@@ -126,7 +126,7 @@
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="20%">
             <center>
-              <span style="color:#455a64; font-size: 0.5em">no modifier is public</span><br><br>
+              <span style="color:#455a64; font-size: 0.5em">no modifier is public</span><br>
               <span style="color:#ff5722; font-size: 1.5em">private</span><br>
               <span style="color:#ff5722; font-size: 1.5em">protected</span><br>
               <span style="color:#455a64; font-size: 0.5em">internal is package private</span>
