@@ -124,7 +124,7 @@
             </center>
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="27%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="25%">
             <center>
               <span style="color:#455a64; font-size: 0.5em">no modifier is public</span><br>
               <span style="color:#ff5722; font-size: 1.5em">private</span><br>
