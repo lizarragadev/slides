@@ -1,5 +1,5 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/io17hashtag.png" width="20%">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/io17hashtag.png" width="60%">
 </div>
 
 ---
