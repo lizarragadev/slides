@@ -287,8 +287,8 @@
   <br>
   <div id="product">
     <span style="color:#ff5722; font-size: 1.5em"><b>kotl.</b></span><span style="color:#455a64; font-size: 1.5em">in</span>
-
-    <span style="color:#ff5722; font-size: 1.5em"><b>kotl.</b></span><span style="color:#455a64; font-size: 1.5em">in</span>
+    <br>
+    <span style="color:#ff5722; font-size: 1.5em"><b>try.</b></span><span style="color:#455a64; font-size: 1.5em">kotlinlang.org</span>
   </div>
 </div>
 
