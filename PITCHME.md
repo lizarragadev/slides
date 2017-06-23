@@ -115,7 +115,7 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="25%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="30%">
             <center>
               <span style="color:#ff5722; font-size: 1.5em">public</span><br>
               <span style="color:#ff5722; font-size: 1.5em">private</span><br>
