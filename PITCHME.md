@@ -137,8 +137,8 @@
 
 ---
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/variable.png" width="40%">  
+<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/variable.png" width="80%">  
   <div id="product">
     <span style="color:#ff5722">Variables</span> y <span style="color:#ff5722">Constantes</span>
   </div>
