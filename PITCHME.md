@@ -326,7 +326,7 @@
   <br>
   <div id="product">
     <span style="color:#455a64; font-size: 1.5em">speakerdeck.com/gusn8/</span>
-    <span style="color:#ff5722; font-size: 1.5em"><b>io17cochabamba</b></span>
+    <span style="color:#ff5722; font-size: 1.5em"><b>mi-primera-vez-con-kotlin-en-android</b></span>
   </div>
 </div>
 
