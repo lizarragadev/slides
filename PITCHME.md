@@ -289,6 +289,16 @@
 ---
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/github.png" width="20%">  
+  <br>
+  <div id="product">
+    <span style="color:#455a64; font-size: 1.5em">github.com/</span><span style="color:#ff5722; font-size: 1.5em"><b>Gusn8/kotlin-codelab</b></span>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/cursor.png" width="7%">  
   <br>
   <div id="product">
