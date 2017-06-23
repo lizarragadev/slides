@@ -151,7 +151,7 @@
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="30%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="33%">
             
             <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java1.png" width="80%">
           </div>
@@ -177,11 +177,34 @@
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
             <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="25%"><br>
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin11.png" width="60%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin11.png" width="50%">
           </div>
         </div>
       </div>
   </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/resources.png" width="50%">  
+  <div id="product">
+    <span style="color:#455a64">Propiedades de </span><span style="color:#ff5722">diseño</span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <center>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="20%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java2.png" width="50%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="20%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin2.png" width="50%">
+  </center>
 </div>
 
 ---
