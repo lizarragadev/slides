@@ -207,6 +207,20 @@
   </center>
 </div>
 
++++
+
+<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+  <center>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/java.png" width="10%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/java3.png" width="80%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/kotlin.png" width="10%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin3.png" width="80%">
+  </center>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
