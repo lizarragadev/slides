@@ -36,8 +36,8 @@
 
 +++
 
-<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/isla_kotlin.png" width="60%">  
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/isla_kotlin.png" width="65%">  
   <div id="product">
     <b><span style="color:#ff5722">Isla de Kotlin, </span><span style="color:#455a64;">Rusia</span></b>
   </div>
