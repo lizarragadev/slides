@@ -217,9 +217,9 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">  
   <div id="product">
-    <span style="color:#ff5722; font-size: 1.3em">var : </span><span style="color:#455a64; font-size: 1.3em"> Variables mutables </span>
-
-    <span style="color:#ff5722; font-size: 1.3em">val : </span><span style="color:#455a64; font-size: 1.3em">   Variables inmutables </span>  
+    <span style="color:#ff5722; font-size: 1.3em"><b>var</b> : </span><span style="color:#455a64; font-size: 1.3em"> Variables mutables </span>
+    </br></br>
+    <span style="color:#ff5722; font-size: 1.3em"><b>val</b> : </span><span style="color:#455a64; font-size: 1.3em">   Variables inmutables </span>  
 </div>
 </div>
 
