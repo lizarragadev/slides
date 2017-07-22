@@ -380,6 +380,16 @@
   </div>
 </div>
 
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <center>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/cadena1.png" width="80%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/cadena2.png" width="80%">
+  </center>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
