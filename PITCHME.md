@@ -48,7 +48,7 @@
           </div>
         </div>
       </div>
-      <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/newold.jpg" width="70%">
+      <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/newold.jpg" width="60%">
   </div>
 </div>
 
