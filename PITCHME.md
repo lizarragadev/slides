@@ -30,7 +30,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/android-kotlin.png" width="65%">  
   <div id="product">
-    <span style="color:#455a64">¿Qué es </span><span style="color:#ff5722">Kotlin?</span>
+    <span style="color:#455a64; font-size: 1.5em">¿Qué es </span><span style="color:#ff5722; font-size: 1.5em">Kotlin?</span>
   </div>
 </div>
 
