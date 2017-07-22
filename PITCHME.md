@@ -339,7 +339,7 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="30%">  
   <div id="product">
-    <span style="color:#ff5722; font-size: 1.5em"><b>Métodos</b></span>
+    <span style="color:#ff5722; font-size: 1.3em"><b>Métodos</b></span>
   </div>
 </div>
 
@@ -376,7 +376,7 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/comillas.png" width="30%">  
   <div id="product">
-    Manejo de <span style="color:#ff5722; font-size: 1.5em"><b>Cadenas</b></span>
+    <b><span style="color:#455a64; font-size: 1.3em">Manejo de </span><span style="color:#ff5722; font-size: 1.3em">Cadenas</span></b>
   </div>
 </div>
 
