@@ -215,7 +215,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">  
+<div class="card" style="padding-top: 1em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">  
   <div id="product">
     <span style="color:#ff5722; font-size: 1.3em"><b>var</b> : </span><span style="color:#455a64; font-size: 1.3em"> Variables mutables </span>
     </br></br>
