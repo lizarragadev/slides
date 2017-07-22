@@ -394,9 +394,9 @@
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <center>
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/if.png" width="80%"><br>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/if.png" width="50%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/for.png" width="80%">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/for.png" width="60%">
   </center>
 </div>
 
