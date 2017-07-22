@@ -127,7 +127,7 @@
 ---
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/android-studio.png" width="40%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/android-studio.png" width="60%">  
   <div id="product">
     <b><span style="color:#455a64; font-size: 1.3em">Instalación en </span><span style="color:#ff5722; font-size: 1.3em">Android Studio</span></b>
   </div>
@@ -135,8 +135,8 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/plugin.png" width="80%">  
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/plugin.png" width="75%">  
   <div id="product">
     <b><span style="color:#ff5722">Instalar plugin </span><span style="color:#455a64;">Kotlin</span></b>
   </div>
