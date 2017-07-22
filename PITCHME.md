@@ -465,7 +465,7 @@
 
 +++
 
-<div class="card" style="padding-top: 2em; padding-bottom: 2em;">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension2.png" width="90%">
   <div id="product">
     <span style="color:#455a64">Enlazar vista y funcionalidad en </span><span style="color:#ff5722"><b>Kotlin</b></span>
@@ -475,7 +475,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/java.png" width="50%">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/tapando.png" width="50%">
   <div id="product">
     <span style="color:#455a64">JAVA </span><span style="color:#ff5722"><b>IS NOT DEAD</b></span>
   </div>
@@ -521,8 +521,14 @@
   <br>
   <div id="product">
     <span style="color:#455a64; font-size: 1.5em">speakerdeck.com/gusn8/</span>
-    <span style="color:#ff5722; font-size: 1.5em"><b>mi-primera-vez-con-kotlin-en-android</b></span>
+    <span style="color:#ff5722; font-size: 1.5em"><b>kotlin-for-android-devs</b></span>
   </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/meme.png" width="80%">  
 </div>
 
 ---
@@ -532,13 +538,6 @@
   <div id="product">
     <span style="color:#455a64; font-size: 1em">Gustavo Lizárraga</span><br>
     <span style="color:#455a64; font-size: 0.5em">www.miramicodigo.com</span><br>
-    <span style="color:#ff5722; font-size: 2em">Mi primera vez con Kotlin en Android</span>
-  </div>
-</div>
-
----
-
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/io17hashtag.png" width="70%">
+    <span style="color:#455a64; font-size: 1.5em"><b>Kotlin</b> </span><span style="color:#ff5722; font-size: 1.5em"><b>para Desarrolladores Android</b></span>  </div>
 </div>
 
