@@ -140,7 +140,7 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/variable.png" width="80%">  
   <div id="product">
-    <span style="color:#ff5722; font-size: 1.3em">Variables</span> y <span style="color:#ff5722; font-size: 1.3em">Constantes</span>
+    <b><span style="color:#ff5722; font-size: 1.3em">Variables</span> y <span style="color:#ff5722; font-size: 1.3em">Constantes</span></b>
   </div>
 </div>
 
