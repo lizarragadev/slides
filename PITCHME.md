@@ -373,6 +373,15 @@
 
 ---
 
+<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/comillas.png" width="30%">  
+  <div id="product">
+    Manejo de <span style="color:#ff5722; font-size: 1.5em"><b>Cadenas</b></span>
+  </div>
+</div>
+
+---
+
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/javavskotlin.png" width="70%">
   <div id="product">
