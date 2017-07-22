@@ -367,7 +367,7 @@
 
     <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="10%"><br>
 
-    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/kotlin4_1.png" width="50%">
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/kotlin4_1.png" width="80%">
   </center>
 </div>
 
