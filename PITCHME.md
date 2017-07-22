@@ -3,8 +3,7 @@
   <div id="product">
     <span style="color:#455a64; font-size: 1em">Gustavo Lizárraga</span><br>
     <span style="color:#455a64; font-size: 0.5em">www.miramicodigo.com</span><br>
-    <span style="color:#455a64; font-size: 1.5em"><b>Kotlin</b> </span><span style="color:#ff5722; font-size: 1.5em"><b>para Desarrolladores Android</b></span>
-  </div>
+    <span style="color:#455a64; font-size: 1.5em"><b>Kotlin</b> </span><span style="color:#ff5722; font-size: 1.5em"><b>para Desarrolladores Android</b></span> <span style="color:#455a64; font-size: 1em"><b>(Episodio I)</b> </span></div>
 </div>
 
 ---
@@ -537,6 +536,6 @@
   <div id="product">
     <span style="color:#455a64; font-size: 1em">Gustavo Lizárraga</span><br>
     <span style="color:#455a64; font-size: 0.5em">www.miramicodigo.com</span><br>
-    <span style="color:#455a64; font-size: 1.5em"><b>Kotlin</b> </span><span style="color:#ff5722; font-size: 1.5em"><b>para Desarrolladores Android</b></span>  </div>
+    <span style="color:#455a64; font-size: 1.5em"><b>Kotlin</b> </span><span style="color:#ff5722; font-size: 1.5em"><b>para Desarrolladores Android</b></span> <span style="color:#455a64; font-size: 1em"><b>(Episodio I)</b> </span></div>
 </div>
 
