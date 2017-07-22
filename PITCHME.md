@@ -427,6 +427,24 @@
   </div>
 </div>
 
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/datajava.png" width="50%">
+  <div id="product">
+    <span style="color:#455a64">Clase de Datos en </span><span style="color:#ff5722"><b>Java</b></span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/datakotlin.png" width="80%">
+  <div id="product">
+    <span style="color:#455a64">Clase de Datos en </span><span style="color:#ff5722"><b>Kotlin</b></span>
+  </div>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
