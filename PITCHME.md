@@ -36,7 +36,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1.5em; padding-bottom: 1.5em;">
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
   <div id="product">
       <div class="contenedor-tabla">
         <div class="contenedor-fila">
@@ -48,7 +48,7 @@
           </div>
         </div>
       </div>
-      <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/newold.jpg" width="60%">
+      <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/newold.jpg" width="70%">
   </div>
 </div>
 
