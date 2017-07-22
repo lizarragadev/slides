@@ -483,7 +483,7 @@
 
 ---
 
-<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/github.png" width="20%">  
   <br>
   <div id="product">
@@ -507,7 +507,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin_lapaz.png" width="80%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin_lapaz.png" width="50%">  
   <br>
   <div id="product">
     <span style="color:#455a64">www.facebook.com/</span><span style="color:#ff5722"><b>KotlinLaPaz</b></span>
