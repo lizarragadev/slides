@@ -405,7 +405,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/javavskotlin.png" width="70%">
   <div id="product">
-    <span style="color:#455a64">Un vs en </span><span style="color:#ff5722"><b>Clases</b></span>
+    <b><span style="color:#455a64;font-size: 1.3em">Un vs en </span><span style="color:#ff5722;font-size: 1.3em">Clases</span></b>
   </div>
 </div>
 
@@ -450,14 +450,14 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/kotlinextension.jpg" width="70%">
   <div id="product">
-    <span style="color:#455a64">Kotlin </span><span style="color:#ff5722"><b>Android Extensions</b></span>
+    <b><span style="color:#455a64; font-size: 1.3em">Kotlin </span><span style="color:#ff5722; font-size: 1.3em">Android Extensions</span></b>
   </div>
 </div>
 
 +++
 
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension1.png" width="50%">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension1.png" width="90%">
   <div id="product">
     <span style="color:#455a64">Enlazar vista y funcionalidad en </span><span style="color:#ff5722"><b>Java</b></span>
   </div>
@@ -466,7 +466,7 @@
 +++
 
 <div class="card" style="padding-top: 2em; padding-bottom: 2em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension2.png" width="80%">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension2.png" width="90%">
   <div id="product">
     <span style="color:#455a64">Enlazar vista y funcionalidad en </span><span style="color:#ff5722"><b>Kotlin</b></span>
   </div>
