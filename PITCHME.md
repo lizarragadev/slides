@@ -507,7 +507,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/kotlinlapaz.png" width="80%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin_lapaz.png" width="80%">  
   <br>
   <div id="product">
     <span style="color:#455a64">www.facebook.com/</span><span style="color:#ff5722"><b>KotlinLaPaz</b></span>
