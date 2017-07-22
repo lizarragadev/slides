@@ -144,16 +144,17 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/gradle_1.png" width="75%">  
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">  
   <div id="product">
     <span style="color:#ff5722">build.gradle </span><span style="color:#455a64;">Project</span>
   </div>
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/gradle_1.png" width="75%">
 
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/gradle_2.png" width="75%">  
+  
   <div id="product">
     <span style="color:#ff5722">build.gradle </span><span style="color:#455a64;">Module</span>
   </div>
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/gradle_2.png" width="75%">
 </div>
 
 +++
