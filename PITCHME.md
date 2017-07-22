@@ -158,8 +158,15 @@
 
 +++
 
-https://plugins.jetbrains.com/plugin/6954-kotlin
-
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/cursor.png" width="7%">  
+  <br>
+  <div id="product">
+    <span style="color:#ff5722; font-size: 1.5em"><b>kotl.</b></span><span style="color:#455a64; font-size: 1.5em">in</span>
+    <br>
+    <span style="color:#ff5722; font-size: 1.5em"><b>plugins.jetbrains.com/plugin/</b></span><span style="color:#455a64; font-size: 1.5em">6954-kotlin</span>
+  </div>
+</div>
 
 ---
 
