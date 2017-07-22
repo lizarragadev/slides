@@ -573,8 +573,8 @@
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/slides.png" width="10%">  
   <br>
   <div id="product">
-    <span style="color:#455a64; font-size: 1.5em">speakerdeck.com/gusn8/</span>
-    <span style="color:#ff5722; font-size: 1.5em"><b>kotlin-for-android-devs</b></span>
+    <span style="color:#455a64; font-size: 1.5em">speakerdeck.com/</span>
+    <span style="color:#ff5722; font-size: 1.5em"><b>gusn8</b></span>
   </div>
 </div>
 
