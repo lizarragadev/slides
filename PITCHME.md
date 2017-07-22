@@ -129,6 +129,15 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/candado.png" width="40%">  
   <div id="product">
+    <b><span style="color:#455a64; font-size: 1.3em">Instalación en </span><span style="color:#ff5722; font-size: 1.3em">Android Studio</span></b>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/candado.png" width="40%">  
+  <div id="product">
     <b><span style="color:#455a64; font-size: 1.3em">Modificadores de </span><span style="color:#ff5722; font-size: 1.3em">acceso</span></b>
   </div>
 </div>
