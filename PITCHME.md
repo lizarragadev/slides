@@ -12,7 +12,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/kotlin-googleio.jpg" width="80%">  
   <div id="product">
-    <span style="color:#455a64">Anuncio en </span><span style="color:#ff5722">Google I/O 2017</span>
+    <b><span style="color:#455a64; font-size: 1.5em">Anuncio en </span><span style="color:#ff5722">Google I/O 2017</span></b>
   </div>
 </div>
 
@@ -29,8 +29,8 @@
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/android-kotlin.png" width="65%">  
-  <div id="product">
-    <span style="color:#455a64; font-size: 1.5em">¿Qué es </span><span style="color:#ff5722; font-size: 1.5em">Kotlin?</span>
+  <div id="product"><b>
+    <span style="color:#455a64; font-size: 1.5em">¿Qué es </span><span style="color:#ff5722; font-size: 1.5em">Kotlin?</span></b>
   </div>
 </div>
 
@@ -86,7 +86,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/logo/android-kotlin.png" width="65%">  
   <div id="product">
-    <span style="color:#455a64">¿Cómo funciona </span><span style="color:#ff5722">Kotlin?</span>
+    <b><span style="color:#455a64; font-size: 1.5em">¿Cómo funciona </span><span style="color:#ff5722; font-size: 1.5em">Kotlin?</span></b>
   </div>
 </div>
 
@@ -102,7 +102,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/candado.png" width="40%">  
   <div id="product">
-    <span style="color:#455a64">Modificadores de </span><span style="color:#ff5722">acceso</span>
+    <b><span style="color:#455a64; font-size: 1.5em">Modificadores de </span><span style="color:#ff5722; font-size: 1.5em">acceso</span></b>
   </div>
 </div>
 
