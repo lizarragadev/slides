@@ -474,6 +474,46 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/10-razones.png" width="70%">
+  <div id="product">
+    <b><span style="color:#455a64; font-size: 1.3em">para usar </span><span style="color:#ff5722; font-size: 1.3em">Kotlin</span></b>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em; padding-right: 1em; padding-left: 1em">
+  <div id="product">
+    <div class="contenedor-tabla">
+      <div class="contenedor-fila">
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; margin-top: 1.5em">
+          <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="50%">
+        </div>
+        <div class="contenedor-columna" style="display: inline-block; vertical-align: middle; float: left;">
+          <ul style="color:#455a64;font-size: 1em">            
+            <li>Lenguaje y entorno <span style="color: #ff5722">maduros</span></li>
+            <li><span style="color: #ff5722">Integrado al 100% </span>Android Studio</li>
+            <li>Actualizate <span style="color: #ff5722">a lo nuevo</span></li>
+            <li>Mas <span style="color: #ff5722">seguro que Java</span></li>
+            <li><span style="color: #ff5722">Empresas inician </span>migracion</li>
+          </ul>        
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+---
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/tapando.png" width="50%">
   <div id="product">
     <span style="color:#455a64">JAVA </span><span style="color:#ff5722"><b>IS NOT DEAD</b></span>
