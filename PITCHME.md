@@ -527,7 +527,7 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/meme.jpg" width="40%">  
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/meme.jpg" width="35%">  
 </div>
 
 ---
