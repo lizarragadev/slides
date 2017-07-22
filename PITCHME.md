@@ -1,15 +1,9 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;padding-left: 1em; padding-right: 1em">
-  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/post/io17hashtag.png" width="70%">
-</div>
-
----
-
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-lab-io17/assets/img/profile/gusn8.png" width="20%">
   <div id="product">
     <span style="color:#455a64; font-size: 1em">Gustavo Lizárraga</span><br>
     <span style="color:#455a64; font-size: 0.5em">www.miramicodigo.com</span><br>
-    <span style="color:#ff5722; font-size: 2em">Mi primera vez con Kotlin en Android</span>
+    <span style="color:#ff5722; font-size: 2em">Kotlin para Desarrolladores Android</span>
   </div>
 </div>
 
