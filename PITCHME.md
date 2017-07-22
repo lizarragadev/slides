@@ -36,6 +36,15 @@
 
 +++
 
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/isla_kotlin.png" width="80%">  
+  <div id="product">
+    <b><span style="color:#ff5722">Isla Kotlin, </span><span style="color:#455a64;">Rusia</span></b>
+  </div>
+</div>
+
++++
+
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
   <div id="product">
       <div class="contenedor-tabla">
@@ -65,7 +74,7 @@
           <ul style="color:#455a64;font-size: 0.9em">
             <li>Sintáxis <span style="color: #ff5722">Java</span></li>
             <li>Más por menos <span style="color: #ff5722">código</span></li>
-            <li><span style="color: #ff5722">Null </span>Safety</li>
+            <li><span style="color: #ff5722">Null </span>safety</li>
             <li><span style="color: #ff5722">100% </span>intercambiable con Java</li>
             <li>Programación <span style="color: #ff5722">funcional </span>y expresiones <span style="color: #ff5722">lambda</span></li>
             <li><span style="color: #ff5722">Fácil </span>aprendizaje</li>
