@@ -263,7 +263,7 @@
             <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="33%">
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/variables1.png" width="70%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/variables1.png" width="100%">
           </div>
         </div>
       </div>
@@ -280,7 +280,7 @@
             <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="33%">
           </div>
           <div class="contenedor-columna" style="display: inline-block; vertical-align: middle;">
-            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/variables2.png" width="70%">
+            <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/variables2.png" width="100%">
           </div>
         </div>
       </div>
