@@ -144,7 +144,7 @@
 
 +++
 
-<div class="card" style="padding-top: 1em; padding-bottom: 1em;">  
+<div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">  
   <div id="product">
     <span style="color:#ff5722">build.gradle </span><span style="color:#455a64;">Project</span>
   </div>
