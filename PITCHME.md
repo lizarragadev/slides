@@ -357,6 +357,20 @@
   </center>
 </div>
 
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <center>
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/java.png" width="10%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/java4.png" width="50%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="10%"><br>
+
+    <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/kotlin4_1.png" width="50%">
+  </center>
+</div>
+
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
