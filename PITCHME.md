@@ -405,7 +405,7 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/javavskotlin.png" width="70%">
   <div id="product">
-    <span style="color:#455a64">Un vs en </span><span style="color:#ff5722"><b>sistáxis</b></span>
+    <span style="color:#455a64">Un vs en </span><span style="color:#ff5722"><b>Clases</b></span>
   </div>
 </div>
 
