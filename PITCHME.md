@@ -39,7 +39,7 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/isla_kotlin.png" width="65%">  
   <div id="product">
-    <b><span style="color:#ff5722">Isla de Kotlin, </span><span style="color:#455a64;">Rusia</span></b>
+    <span style="color:#ff5722">Isla de Kotlin, </span><span style="color:#455a64;">Rusia</span>
   </div>
 </div>
 
@@ -138,9 +138,27 @@
 <div class="card" style="padding-top: 0.5em; padding-bottom: 0.5em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/plugin.png" width="75%">  
   <div id="product">
-    <b><span style="color:#ff5722">Instalar plugin </span><span style="color:#455a64;">Kotlin</span></b>
+    <span style="color:#ff5722">Instalar plugin </span><span style="color:#455a64;">Kotlin</span>
   </div>
 </div>
+
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/gradle_1.png" width="65%">  
+  <div id="product">
+    <span style="color:#ff5722">build.gradle </span><span style="color:#455a64;">Project</span>
+  </div>
+
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/gradle_2.png" width="65%">  
+  <div id="product">
+    <span style="color:#ff5722">build.gradle </span><span style="color:#455a64;">Module</span>
+  </div>
+</div>
+
++++
+
+https://plugins.jetbrains.com/plugin/6954-kotlin
 
 
 ---
