@@ -339,7 +339,7 @@
 <div class="card" style="padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/kotlin.png" width="30%">  
   <div id="product">
-    <span style="color:#ff5722">Métodos</span>
+    <span style="color:#ff5722; font-size: 1.5em"><b>Métodos</b></span>
   </div>
 </div>
 
