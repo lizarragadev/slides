@@ -448,6 +448,33 @@
 ---
 
 <div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/javavskotlin.png" width="70%">
+  <div id="product">
+    <span style="color:#455a64">Kotlin </span><span style="color:#ff5722"><b>Android Extensions</b></span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 1em; padding-bottom: 1em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension1.png" width="50%">
+  <div id="product">
+    <span style="color:#455a64">Enlazar vista y funcionalidad en </span><span style="color:#ff5722"><b>Java</b></span>
+  </div>
+</div>
+
++++
+
+<div class="card" style="padding-top: 2em; padding-bottom: 2em;">
+  <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/post/extension2.png" width="80%">
+  <div id="product">
+    <span style="color:#455a64">Enlazar vista y funcionalidad en </span><span style="color:#ff5722"><b>Kotlin</b></span>
+  </div>
+</div>
+
+---
+
+<div class="card" style="padding-top: 0.5em; padding-bottom: 1em;">
   <img src="https://raw.githubusercontent.com/gusn8/slides/kotlin-para-android-devs/assets/img/logo/java.png" width="50%">
   <div id="product">
     <span style="color:#455a64">JAVA </span><span style="color:#ff5722"><b>IS NOT DEAD</b></span>
