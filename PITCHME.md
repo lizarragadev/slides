@@ -66,7 +66,7 @@
             <li>Sintáxis <span style="color: #ff5722">Java</span></li>
             <li>Más por menos <span style="color: #ff5722">código</span></li>
             <li><span style="color: #ff5722">Null </span>Safety</li>
-            <li><span style="color: #ff5722">Expandir </span>clases</li>
+            <li><span style="color: #ff5722">100% </span>intercambiable con Java</li>
             <li>Programación <span style="color: #ff5722">funcional </span>y expresiones <span style="color: #ff5722">lambda</span></li>
             <li><span style="color: #ff5722">Fácil </span>aprendizaje</li>
           </ul>        
